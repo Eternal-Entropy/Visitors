@@ -1,2 +1,2 @@
-# Visitors engine - dedicated server/VPS
-online voting game
+# Visitors 
+a game engine for an online voting game running on dedicated server/VPS
